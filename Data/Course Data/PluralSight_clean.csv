@@ -1,0 +1,368 @@
+Course Title,Course Info,Course Rating,Course Duration,Course Level,Source
+Windows PowerShell and Regular Expressions,"Windows PowerShell and Regular Expressions
+If you are a PowerShell Pro who needs to know what regular expressions are and how to take advantage of them in PowerShell, then this course is for you. Learn the regex fundamentals, from matching, splitting, replacing, to turning text into objects.",Not applicable,2.22,Intermediate,Pluralsight
+Ethernet Operation and Switch Configuration,"Ethernet Operation and Switch Configuration
+Since Ethernet is a widely used protocol in data networking, you'll spend most of the course examining Ethernet. You'll also examine physical components required for networking, as well as the layer 2 protocols used in network communication.",Not applicable,3.07,Intermediate,Pluralsight
+Cisco Enterprise Networks: Basic Networking and IP Fundamentals,"Cisco Enterprise Networks: Basic Networking and IP Fundamentals
+Master the fundamental network principles needed to pass the CCNP ENCOR 350-401 exam for the CCNP Enterprise certification. This first course in the series covers fundamentals such as IPv4 & IPv6 addressing, dynamic routing, & TCP and UDP operations.",Not applicable,1.75,Intermediate,Pluralsight
+Ethical Hacking: Vulnerability Analysis,"Ethical Hacking: Vulnerability Analysis
+Vulnerability assessment plays a major role in providing security to any organization’s resources and infrastructure from various internal and external threats. This course will teach you vulnerability analysis techniques needed for the Certified Ethical Hackers exam",Not applicable,1.42,Intermediate,Pluralsight
+Performing Malware Analysis on Malicious Documents,"Performing Malware Analysis on Malicious Documents
+Malicious documents have become a form of malware that all incident responders need to be able to analyze. This course will teach you how to analyze malicious Adobe PDF and Microsoft Office documents, along with any malicious scripts they contain.",Not applicable,2.98,Intermediate,Pluralsight
+Cisco Core Security: Describing and Configuring VPNs,"Cisco Core Security: Describing and Configuring VPNs
+VPNs secure business traffic over the unprotected internet. Learn how to deploy either site-to-site VPNs using Cisco routers, or remote access VPNs using an ASA, or FTD.",Not applicable,3.65,Intermediate,Pluralsight
+Swift Fundamentals,"Swift Fundamentals
+Swift is the modern, fast, and safe programming language that has rapidly become the first choice for building iOS and macOS apps. This course serves as a firm foundation in Swift, including core syntax, best practices, working with data, and more.",Not applicable,3.8,Beginner,Pluralsight
+Getting Started with Model-driven Apps in Power Apps (PL-100),"Getting Started with Model-driven Apps in Power Apps (PL-100)
+Model-driven apps offer a no-code way to develop rich, responsive apps on top of your data. This course will teach you how to develop an end-to-end model-driven app using Power Apps.",Not applicable,2.03,Beginner,Pluralsight
+Computer Vision: Executive Briefing,"Computer Vision: Executive Briefing
+Computer Vision gives applications the ability to ""see"" the world around them and react accordingly with close-to-human accuracy. Watch and learn how Computer Vision opens a whole new world of possibilities for you and your applications.",Not applicable,0.48,Beginner,Pluralsight
+Provisioning and Managing Networks Using Common Automation Tools,"Provisioning and Managing Networks Using Common Automation Tools
+Learning network automation can be challenging, especially when you have no business problem to solve. This course will start at day 0 by building up a small network, configuring it, then monitoring its performance over time.",Not applicable,2.78,Intermediate,Pluralsight
+Automating Cisco DNA Center Operations Using APIs,"Automating Cisco DNA Center Operations Using APIs
+If you're managing a sprawling, complex network, consider deploying Cisco DNA Center to unify your enterprise network operations. I'll teach you how to programmatically interact with DNA Center through its REST API using Python in this course.",Not applicable,1.88,Intermediate,Pluralsight
+Protocol Deep Dive: FTP and Its Variants,"Protocol Deep Dive: FTP and Its Variants
+Transferring files within a business is a critical capability that has become a basic operating necessity. This course explores both FTP active and passive modes, plus FTPS, SFTP, TFTP, all of which can operate using IPv4 and IPv6.",Not applicable,2.4,Intermediate,Pluralsight
+Automating Cisco ASA and Firepower Policies Using APIs,"Automating Cisco ASA and Firepower Policies Using APIs
+Network security is more important today than ever before. This course will teach you how to automate common security operations on Cisco ASA, FTD, and FMC products in the context of enterprise Internet Edge security design.",Not applicable,2.1,Intermediate,Pluralsight
+Post Exploitation with Meterpreter,"Post Exploitation with Meterpreter
+In a penetration test, escalating your privileges and exfiltrating data are some of the most important tasks of the assessment. This course will teach you how to use the Meterpreter tool for post-exploitation tasks.",Not applicable,1.68,Intermediate,Pluralsight
+Change Management: Evaluating Impact and Organizational Readiness,"Change Management: Evaluating Impact and Organizational Readiness
+This course will teach you how to gather all of the necessary information to formulate a change management strategy. This course will also help prepare you for this section of the CCMP exam, administered by the ACMP.",Not applicable,2.02,Intermediate,Pluralsight
+Troubleshooting Slow Networks with Wireshark,"Troubleshooting Slow Networks with Wireshark
+Tired of dealing with slowness on networks? Grab a copy of Wireshark and follow along as you dive into packet data to investigate the root cause of many network and application performance problems.",Not applicable,3.03,Intermediate,Pluralsight
+Working with Styles in Xamarin.Forms 4 Applications,"Working with Styles in Xamarin.Forms 4 Applications
+This course teaches you how to reuse user interface code in your Xamarin.Forms applications with XAML Styles and with Cascading Style Sheets (CSS).",Not applicable,1.78,Intermediate,Pluralsight
+Tracking Progress and Using Resources and Costs in Microsoft Project,"Tracking Progress and Using Resources and Costs in Microsoft Project
+As an existing Microsoft Project user, this course takes you to the next level. We begin to drill into some of the more advanced features of scheduling, resourcing, costing, tracking, communicating, and reporting, throughout the project life-cycle.",Not applicable,2.62,Intermediate,Pluralsight
+Earning and Retaining Your PMP® Certification,"Earning and Retaining Your PMP® Certification
+Updated to align with the 6th Edition of the PMBOK® Guide, this course completes the PMP® learning path with a look at PMI's ethical standards, how to ensure you're ready for test day, and how to maintain your certification for years to come.",Not applicable,2.08,Beginner,Pluralsight
+Designing QoS for IP and MPLS Networks,"Designing QoS for IP and MPLS Networks
+Companies that fail to properly identify and prioritize their applications often do not operate effectively. This course will teach you how to develop network Quality of Service (QoS) designs across a variety of environments.",Not applicable,1.15,Intermediate,Pluralsight
+Secure User Account and Authentication Practices in ASP.NET 3 and ASP.NET Core 3,"Secure User Account and Authentication Practices in ASP.NET 3 and ASP.NET Core 3
+This course will teach you how to add secure authentication practices to your ASP.NET websites, including proper establishing and storing of passwords, multi-factor authentication, password recovery, and proper authorization techniques..",Not applicable,2.27,Intermediate,Pluralsight
+Automating Cisco Meraki Operations Using APIs,"Automating Cisco Meraki Operations Using APIs
+If you're looking for a simple, powerful, and unified wired/wireless enterprise network solution, look no further than Cisco Meraki. I'll teach you how to programmatically interact with Meraki networks at scale using Python in this course.",Not applicable,1.47,Intermediate,Pluralsight
+Dreamweaver CC Fundamentals,"Dreamweaver CC Fundamentals
+Learn how to properly structure an HTML document, layout pages using CSS, and manage your website using Adobe Dreamweaver.",Not applicable,5.13,Beginner,Pluralsight
+Credential Access with Responder,"Credential Access with Responder
+After getting initial access in a network, your next task is to move laterally and escalate privileges. In this course, you will see the Responder tool which allows you to exploit vulnerabilities on the LLMNR and NBT-NS protocols to get credentials",Not applicable,0.33,Intermediate,Pluralsight
+Serverless Programming with Fn Project,"Serverless Programming with Fn Project
+Fn is an open-source serverless platform powered by Docker. It runs on local machines, the data center, or the cloud, supports multiple languages, and lets you run any Docker container as a serverless function. This course gets you up and running with Fn.",Not applicable,1.6,Beginner,Pluralsight
+VLAN Operation and Configuration,"VLAN Operation and Configuration
+In this course, we will examine VLANs, VLAN trunks, the layer 3 switch, as well as some common errors one can make while configuring switched networks.",Not applicable,2.37,Intermediate,Pluralsight
+Implementing Application Layer Protocols for Cisco Networks,"Implementing Application Layer Protocols for Cisco Networks
+Keep your network running and help your business run more effectively. In this course, you will examine fundamental application layer protocols an their operation including, HTTP, FTP, DNS, DHCP, NTP, and Syslog.",Not applicable,2.75,Intermediate,Pluralsight
+Cisco Wireless Basic Operation and Configuration,"Cisco Wireless Basic Operation and Configuration
+Wireless networks are a fundamental component of enterprise networks. This course will introduce 802.11 radio frequency basics, deployment principles, and configuration of a Cisco Wireless LAN Controller.",Not applicable,1.55,Intermediate,Pluralsight
+Implementing Monitoring and Continuous Deployment for Serverless Applications on AWS,"Implementing Monitoring and Continuous Deployment for Serverless Applications on AWS
+This course will teach you how to implement a support strategy for serverless applications, including logging, tracing, metrics, and continuous delivery.",Not applicable,0.68,Intermediate,Pluralsight
+Cisco Core Security: Network Security with Cisco Firepower,"Cisco Core Security: Network Security with Cisco Firepower
+Properly securing your network and devices is a critical security posture, and the Cisco Firepower Threat Defense Appliance is designed to do just that. This course will teach you how to configure the FTD appliance to ensure your network is secure.",Not applicable,1.25,Intermediate,Pluralsight
+Cisco Core Security: Content Security with Cisco WSA & Cisco Umbrella,"Cisco Core Security: Content Security with Cisco WSA & Cisco Umbrella
+Threats that are hosted on the internet continue to cost organizations in money and productivity. In this course, you'll learn how to use Cisco's Web Security Appliance and Cisco Umbrella to help mitigate these threats located on the web.",Not applicable,2.07,Intermediate,Pluralsight
+Build Your First Data Visualization with ChartBlocks,"Build Your First Data Visualization with ChartBlocks
+This course will teach you how to build your very first visualization with the help of ChartBlocks.",Not applicable,0.58,Beginner,Pluralsight
+Building and Configuring a Salesforce Experience Cloud Site without Code,"Building and Configuring a Salesforce Experience Cloud Site without Code
+This course will teach you tactical, practical skills to facilitate the development and configuration of a Salesforce site with Salesforce Experience Cloud.",Not applicable,2.3,Intermediate,Pluralsight
+Wireshark Configuration for Cyber Security Analysis,"Wireshark Configuration for Cyber Security Analysis
+This course will teach you the best settings and filters to use in Wireshark for quickly spotting malware behavior, enumeration and scans, and other suspect traffic.",Not applicable,1.47,Intermediate,Pluralsight
+AWS DynamoDB Deep Dive,"AWS DynamoDB Deep Dive
+DynamoDB is one of the most widely-used databases in the world. This deep dive course starts with the basics of using DynamoDB and then dives into advanced topics such as update streams, transactions, and best practices.",Not applicable,6.13,Intermediate,Pluralsight
+STP and EtherChannel Operation and Configuration,"STP and EtherChannel Operation and Configuration
+Providing redundant layer 2 networks is important in order to provide a resilient and reliable network. This course will show you how to do that.",Not applicable,2.77,Intermediate,Pluralsight
+Differences between Security Groups and NACLs,"Differences between Security Groups and NACLs
+This is an introductory course on the differences between security groups and NACLs, or Network Access Control Lists.
+",Not applicable,0.12,Beginner,Pluralsight
+Perform Advanced Analysis with Power BI,"Perform Advanced Analysis with Power BI
+This course will teach you about the Power BI Analytics toolset so that you have the knowledge and know-how to apply this and answer related questions in the DA100 exam.",Not applicable,1.93,Beginner,Pluralsight
+Protocol Deep Dive: QUIC,"Protocol Deep Dive: QUIC
+QUIC is already the transport protocol for Google, Facebook, YouTube, UBER, and many more. This course will teach you to test, validate, and troubleshoot this rapidly emerging transport protocol.",Not applicable,1.57,Expert,Pluralsight
+Enrich Reports for Usability with Power BI,"Enrich Reports for Usability with Power BI
+This course will teach you all the skills required to enrich your Power BI Reports ensuring that they are fully useable and interactive. The content of this course prepares you to take the DA-100 Analyzing Data with Microsoft Power BI exam.",Not applicable,2.62,Beginner,Pluralsight
+Protocol Deep Dive: Address Resolution Protocol (ARP),"Protocol Deep Dive: Address Resolution Protocol (ARP)
+Address Resolution Protocol (ARP) is essential for computer communication across the network. This course provides the in-depth knowledge needed to understand, improve, troubleshoot, and secure ARP-related communications in your network.",Not applicable,4.6,Intermediate,Pluralsight
+RHEL 8: Creating and Configuring File Systems,"RHEL 8: Creating and Configuring File Systems
+If you are using Linux, you will need to make use of file storage. This course will teach you to deploy file servers with NFS as well as looking at the latest disk optimization tools in VDO and Stratis.",Not applicable,2.75,Intermediate,Pluralsight
+Linux: System Security (LPIC-2),"Linux: System Security (LPIC-2)
+Security is an ever growing concern no matter which operating system you employ. This course will not only get you ready for your LPIC-2 202 exam but prepare you in securing your Linux Server.",Not applicable,3.1,Intermediate,Pluralsight
+Junos OS and the OSPF Routing Protocol,"Junos OS and the OSPF Routing Protocol
+While having a fast network is key to ensuring data is transmitted around a corporation as quickly and smoothly as possible, there's still a need to route traffic between networks. This course will begin your look at dynamic routing protocols.",Not applicable,3.18,Intermediate,Pluralsight
+Publishing Progressive Web Apps,"Publishing Progressive Web Apps
+You have already published a Progressive Web App. This course will teach you how to distribute your PWA to all possible users without a browser manual installation, for enterprise users and end-users through the app stores.",Not applicable,1.95,Intermediate,Pluralsight
+Designing and Managing a Group Policy Deployment,"Designing and Managing a Group Policy Deployment
+This course is designed to build on the knowledge you gained in the Group Policy fundamentals course by providing practical direction on how you can design, manage, and secure a good Group Policy deployment.",Not applicable,3.02,Intermediate,Pluralsight
+Configuring and Managing Microsoft 365 Workload Integrations,"Configuring and Managing Microsoft 365 Workload Integrations
+Microsoft 365 is the most popular productivity cloud solution in the world! In this course, you will learn how to manage multiple services such as Yammer, Stream, Delve, Power Apps, Power Automate, and more!",Not applicable,4.65,Intermediate,Pluralsight
+Managing Big Data with AWS Storage Options,"Managing Big Data with AWS Storage Options
+Discover solutions offered by Amazon Web Services for collecting, processing, and storing big data coming in from different sources, to derive insights about your businesses and your customers",Not applicable,1.63,Expert,Pluralsight
+State Management with Vuex 4,"State Management with Vuex 4
+This course will teach you how to manage application state in Vue.js applications using Vuex: Vue’s official and recommended state management library.",Not applicable,1.82,Intermediate,Pluralsight
+Getting Started with Salt Open,"Getting Started with Salt Open
+This course will teach you how to automate the configuration of your IT infrastructure, network security, and servers, both virtual and physical, with Saltstack Open.",Not applicable,2.18,Beginner,Pluralsight
+Refactoring from Anemic Domain Model Towards a Rich One,"Refactoring from Anemic Domain Model Towards a Rich One
+Building bullet-proof business line applications is a complex task. This course will teach you an in-depth guideline into refactoring from Anemic Domain Model into a rich, highly encapsulated one.",Not applicable,3.6,Intermediate,Pluralsight
+Mastering TCP Analysis with Wireshark,"Mastering TCP Analysis with Wireshark
+A deep level understanding of the transport control protocol is critical for any network engineer in solving network and application performance problems. This hands on course will help you heighten your expertise of TCP.",Not applicable,2.35,Expert,Pluralsight
+Architecting Cisco Secure Communications,"Architecting Cisco Secure Communications
+Data has become a high value commodity and protecting it is essential, especially when your data is traversing the internet and this is where VPNs come in. Using any VPN is not enough however, as picking the right solution is highly important too.",Not applicable,2.0,Intermediate,Pluralsight
+Building Packet Tracer Labs for CCNA Study: Fundamentals,"Building Packet Tracer Labs for CCNA Study: Fundamentals
+This course is designed to enhance fundamental data networking protocol knowledge through the use of Cisco's free Packet Tracer lab simulator. Theses core labs will enhance your skills, and challenge your networking knowledge.",Not applicable,5.35,Intermediate,Pluralsight
+Protocol Deep Dive: IGMP and MLD,"Protocol Deep Dive: IGMP and MLD
+Many engineers struggle with IP multicast. This IGMP and MLD deep dive builds a strong foundation into host-to-router multicast signaling. It includes extensive demonstrations, packet capture deep-dives, and troubleshooting techniques.",Not applicable,1.97,Intermediate,Pluralsight
+Developing Python 3 Apps with Docker,"Developing Python 3 Apps with Docker
+Moving from a traditional architecture to a containerized architecture can be intimidating. This course will teach you how to use Docker and Docker Compose to build and deploy highly scalable Python applications.",Not applicable,2.48,Intermediate,Pluralsight
+Getting Started with TeamCity,"Getting Started with TeamCity
+This course will teach you everything you need to know about TeamCity to get started with continuous integration and begin automating your builds. You will learn how to install TeamCity before configuring builds for both Java and .NET.",Not applicable,2.15,Beginner,Pluralsight
+Managing Microsoft Exchange Server Mail Flow Topology,"Managing Microsoft Exchange Server Mail Flow Topology
+This course will teach you about managing mail flow for an on-premises Exchange Server environment, including how the transport architecture works, how to configure and control email routing, and how to troubleshoot email delivery problems.",Not applicable,2.13,Intermediate,Pluralsight
+Merging Data Sources with R 3,"Merging Data Sources with R 3
+Learn how to merge data with R. How do you merge values into vectors? How do you merge vectors into data frames? How do you join data frames? See how to use base R and dplyr to do left, right, and full outer joins with plenty of examples.",Not applicable,1.48,Beginner,Pluralsight
+Progressive Web Apps: Sensor Integrations,"Progressive Web Apps: Sensor Integrations
+PWAs promise all the user experience of a native application but delivered with standard web technologies. This course will show you how to leverage Handset Sensors such as Camera, Geo, and Network to deliver a great mobile experience over the web.",Not applicable,1.93,Intermediate,Pluralsight
+Build Your First Data Visualization with FusionCharts,"Build Your First Data Visualization with FusionCharts
+In this course, Build Your First Data Visualization with FusionCharts, you will explore how data visualization gives us a complete story and also gives us a prediction of the future.",Not applicable,0.78,Beginner,Pluralsight
+Impact with Slowloris,"Impact with Slowloris
+In this course, you will learn impact with Slowloris. This read team engagement help us learn about HTTP Denial of Service attack that affects threaded servers.",Not applicable,0.35,Intermediate,Pluralsight
+Microsoft Azure Solutions Architect: Design Storage Accounts,"Microsoft Azure Solutions Architect: Design Storage Accounts
+Azure Storage is one of the core building blocks of nearly every service in Azure. This course will teach you the skills necessary to utilize the right storage configuration based on your projects requirements.
+",Not applicable,1.03,Expert,Pluralsight
+Scaling up Your Digital Body Language,"Scaling up Your Digital Body Language
+The need for digital communication has risen immensely. This course will teach you how to scale up and polish your digital body language in order to communicate effectively with others.",Not applicable,1.5,Intermediate,Pluralsight
+Network Discovery and Enumeration with PowerShell,"Network Discovery and Enumeration with PowerShell
+PowerShell is a powerful tool that can help you to enumerate local and remote information during an offensive engagement. This course will teach you how to use PowerShell to perform reconnaissance in a red team scenario.",Not applicable,1.52,Intermediate,Pluralsight
+Package Management in Visual Studio 2022,"Package Management in Visual Studio 2022
+Working with packages is an inescapable part of the modern development landscape. This course will teach you the ins and outs of working with packages in Visual Studio 2022.",Not applicable,1.47,Intermediate,Pluralsight
+RxJS and Angular Signals Fundamentals,"RxJS and Angular Signals Fundamentals
+This course provides the fundamentals you need to work with data and implement a reactive approach to building Angular applications. This course will teach you RxJS, signals, and reactive programming.",Not applicable,6.22,Intermediate,Pluralsight
+Building an Application Using Java SE 17,"Building an Application Using Java SE 17
+Building Java applications requires more than knowing the Java language. This course will teach you the tools, libraries, and practices you need to start building Java SE 17 applications.",Not applicable,3.1,Intermediate,Pluralsight
+React 18 Debugging Playbook,"React 18 Debugging Playbook
+Do you wish you spent less time debugging React code? This course will teach you how to quickly diagnose common issues using the React Developer Tools so you can spend more time writing your application.",Not applicable,2.87,Expert,Pluralsight
+Unit Testing an ASP.NET Core MVC Web Application,"Unit Testing an ASP.NET Core MVC Web Application
+Unit testing your ASP.NET Core MVC web application helps with improving its reliability. This course will teach you the ins and outs of unit testing with xUnit in detail.",Not applicable,5.27,Intermediate,Pluralsight
+Ethical Hacking: Social Engineering,"Ethical Hacking: Social Engineering
+This course will teach you the social engineering skills needed for EC-Council’s Certified Ethical Hacker certification.",Not applicable,0.8,Intermediate,Pluralsight
+Securing the Switch,"Securing the Switch
+This course will describe some of the most severe switch security risks and discuss the mechanisms to help mitigate attacks through the well-known vectors.",Not applicable,2.42,Intermediate,Pluralsight
+Exam Alert: Design Business Continuity in Microsoft Azure,"Exam Alert: Design Business Continuity in Microsoft Azure
+When faced with preparing for exams it's not always clear where best to spend time and how best to prepare. In this course, Exam Alert: Design Business Continuity in Microsoft Azure, you’ll learn to arm yourself with the skills and knowledge to succeed. First, you’ll explore how to understand the core areas that are covered in the exam. Next, you’ll discover key resources to help gain knowledge specific to the technology area. Finally, you’ll learn how to improve and practice. When you’re finished with this course, you’ll have the skills and knowledge of business continuity related to Microsoft certification needed to pass with confidence.
+",Not applicable,0.7,Expert,Pluralsight
+Ubuntu Linux Administration: Essential Commands,"Ubuntu Linux Administration: Essential Commands
+Linux is everywhere and sits at the heart of cloud computing making it hard to avoid. This course will teach you the skills needed to effectively navigate and use the Linux command line interface.",Not applicable,4.43,Intermediate,Pluralsight
+Avoiding Common Writing Mistakes,"Avoiding Common Writing Mistakes
+You may be an expert in your field, but if you are a poor writer, you’re less likely to reach your full potential. This course identifies common writing mistakes and shows you how to represent yourself, your work, and your ideas more effectively.",Not applicable,1.85,Beginner,Pluralsight
+Creating Canvas Apps with Power Apps,"Creating Canvas Apps with Power Apps
+Canvas apps offer a no-code way to develop rich, responsive business apps, using drag-and-drop functionality and Excel-like expressions. This course will teach you how to develop an end-to-end Power Apps canvas app that leverages Dataverse data.",Not applicable,3.05,Beginner,Pluralsight
+What's New in C# 12,"What's New in C# 12
+C# 12 has some great features that will make .NET life easier. This course will teach you the changes around types, lambdas and collections as well as some other features that will make you more productive as you write C#!",Not applicable,0.42,Intermediate,Pluralsight
+Python 3 Decorators,"Python 3 Decorators
+Decorators allow programmers to modify the functionality of an object without permanently modifying the object’s structure. This course will teach you how to create and use decorators in Python.",Not applicable,1.42,Expert,Pluralsight
+EF Core 8 Fundamentals,"EF Core 8 Fundamentals
+This course will teach you how to use Entity Framework Core to perform data access in your .NET applications.",Not applicable,8.18,Beginner,Pluralsight
+Building Regression Models with scikit-learn,"Building Regression Models with scikit-learn
+This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",Not applicable,2.7,Intermediate,Pluralsight
+Identify Common Cyber Network Attacks with Wireshark,"Identify Common Cyber Network Attacks with Wireshark
+This course will teach you how to quickly spot cyber attacks and indicators of compromise in network traffic with Wireshark.",Not applicable,2.57,Intermediate,Pluralsight
+vSphere 8: Configuring and Managing vSphere Networking,"vSphere 8: Configuring and Managing vSphere Networking
+This course teaches you how to configure and manage vSphere networking from standard switches to distributed switches, and how to configure advanced vSphere networking features and policies. Learn how to configure vSphere networking like a pro.",Not applicable,2.63,Intermediate,Pluralsight
+Implementing Microsoft Windows Always On VPN,"Implementing Microsoft Windows Always On VPN
+This course will teach you how to design, implement, and support a Microsoft Always On VPN secure remote access solution.",Not applicable,6.72,Intermediate,Pluralsight
+Specialized DFIR: Windows Registry Forensics,"Specialized DFIR: Windows Registry Forensics
+The Windows registry is a valuable source of information during a forensic investigation. This course will teach you how to investigate the registry to obtain evidence of malicious execution and persistence.",Not applicable,1.17,Expert,Pluralsight
+Microsoft Teams Voice Engineer: Plan and Configure Teams Phone,"Microsoft Teams Voice Engineer: Plan and Configure Teams Phone
+Take your Microsoft Teams experience to the next level by adding voice capabilities! This course will teach you how to plan and deploy a Microsoft Teams phone system and audio conferencing solution to your organization.",Not applicable,3.73,Intermediate,Pluralsight
+Deploying MPLS Segment Routing and Layer-2 VPNs,"Deploying MPLS Segment Routing and Layer-2 VPNs
+In a perfect world, technologies become simpler while also becoming more effective and less expensive to operate. MPLS Segment Routing and modern layer-2 VPNs are great examples of such technologies.",Not applicable,2.03,Expert,Pluralsight
+Threat Hunting: Network Hunting,"Threat Hunting: Network Hunting
+Being responsible to go find the anomalies within an environment can be a daunting task. This course will teach you how to hunt through network traffic to find malicious behavior.",Not applicable,1.48,Intermediate,Pluralsight
+Manage Palo Alto Firewalls with Panorama and Implement High Availability,"Manage Palo Alto Firewalls with Panorama and Implement High Availability
+Using Palo Alto Network’s firewalls is a great way to secure your network, however managing multiple NGFWs can be difficult. This course will teach you how to manage multiple firewalls from a single pane of glass and implement high-availability.",Not applicable,3.12,Intermediate,Pluralsight
+Upgrading Your Farm to SharePoint 2016,"Upgrading Your Farm to SharePoint 2016
+Are you preparing to upgrade to SharePoint 2016? This course will teach you how to approach the project, evaluate your current state, and successfully upgrade from SharePoint 2013 to SharePoint 2016.",Not applicable,3.82,Intermediate,Pluralsight
+Windows Endpoint Security: Scheduled Tasks,"Windows Endpoint Security: Scheduled Tasks
+This course will teach you Windows scheduled task basics needed by all roles in cyber security.",Not applicable,0.35,Beginner,Pluralsight
+Introduction to the Cisco ENARSI (300-410) Exam,"Introduction to the Cisco ENARSI (300-410) Exam
+You have probably heard about the new Cisco certifications which went live in February 2020. This short course serves as a learning path introduction to the Cisco Enterprise Advanced Routing and Services Exam (ENARSI).",Not applicable,0.25,Beginner,Pluralsight
+Routing IPv4 and IPv6,"Routing IPv4 and IPv6
+Understanding how data moves across networks with IPv4 and IPv6 is the cornerstone of CCNA studies. This course explains in detail how IPv4 and IPv6 routing operates with extensive demonstrations to explain how routers move IP packets.",Not applicable,4.75,Intermediate,Pluralsight
+Specialized Hunts: Threat Hunting within Active Directory,"Specialized Hunts: Threat Hunting within Active Directory
+Active Directory is used in most medium and large companies, making it a significant target for abuse. This course will teach you how to hunt for threats in Active Directory to uncover malicious activity rapidly, allowing you to respond faster",Not applicable,0.83,Intermediate,Pluralsight
+Play by Play: Knowing When to Code in Salesforce,"Play by Play: Knowing When to Code in Salesforce
+In this course, you'll discover when and how to choose a declarative versus a programmatic solution for any development task in Salesforce.",Not applicable,2.08,Intermediate,Pluralsight
+Designing/Deploying Exchange 2016: Compliance & Archiving,"Designing/Deploying Exchange 2016: Compliance & Archiving
+This course will teach you about Exchange 2016 compliance and archiving. Along with other courses in the series, this course will help to prepare you for the Microsoft 70-345 exam.",Not applicable,2.12,Intermediate,Pluralsight
+Network Security Monitoring with Suricata,"Network Security Monitoring with Suricata
+Sophisticated adversaries have routinely demonstrated the ability to compromise enterprise networks and remain hidden for extended periods of time. This course will teach you how to dig deep into network traffic utilizing Suricata.",Not applicable,2.45,Beginner,Pluralsight
+Microsoft Azure Solutions Architect: Design a Compute Solution,"Microsoft Azure Solutions Architect: Design a Compute Solution
+Azure has a vast number of compute offerings with their own sets of benefits. This course will teach you the key differences between them to enable you to pick the right combination of services for your various business requirements.",Not applicable,1.28,Expert,Pluralsight
+Implementing and Validating QoS Designs,"Implementing and Validating QoS Designs
+Correctly deploying an existing technical design is what separates ideas from reality. This course will teach you how to implement and validate network Quality of Service (QoS) designs across a variety of environments.",Not applicable,1.32,Intermediate,Pluralsight
+Exam Review Tips and Tricks for CySA+,"Exam Review Tips and Tricks for CySA+
+Achieving a passing score on the CySA+ exam requires knowledge, experience, and preparation. This course will teach you the steps to be successful for the CySA+ exam.",Not applicable,0.47,Beginner,Pluralsight
+Java Playbook,"Java Playbook
+Like other developers, you face common challenges- working with strings, handling numbers, processing collections, reading from files, etc. This course will teach you how to solve these challenges using proven recipes quickly and efficiently.",Not applicable,4.25,Intermediate,Pluralsight
+Kali Linux Concepts and Basic Functionality,"Kali Linux Concepts and Basic Functionality
+This course will teach you about Kali Linux, a popular tool
+used to discover threats and vulnerabilities in computer
+systems and networks.",Not applicable,1.72,Beginner,Pluralsight
+Accessing Non-relational Databases in Go,"Accessing Non-relational Databases in Go
+This course will teach you
+how to use the Go language to access non-relational databases and perform various CRUD operations.",Not applicable,0.78,Intermediate,Pluralsight
+Technical Information Gathering with Maltego CE 4,"Technical Information Gathering with Maltego CE 4
+One of the most important phases in a red team engagement is the information gathering prior to the attack. In this course, we explore the Maltego CE tool, which will help you to collect technical and people information from your target.",Not applicable,0.42,Intermediate,Pluralsight
+VMWare ESXi Vulnerability: What You Should Know,"VMWare ESXi Vulnerability: What You Should Know
+This course covers a Q&A session discussing the VMWare ESXi Vulnerability, CVE-2021-21974. We will cover what it is, why it’s such a critical and widespread vulnerability that can exist in a multitude of systems, and how to identify if you’ve been affected.
+",Not applicable,0.07,Beginner,Pluralsight
+Photoshop CC Smart Objects,"Photoshop CC Smart Objects
+Review the various ways you can create Smart Objects and some best practices for working with them Adobe Photoshop CC. Software required: Adobe Photoshop CC.",Not applicable,1.0,Intermediate,Pluralsight
+Microsoft Azure Solutions Architect: Implement an Automation Strategy for Resource Deployment,"Microsoft Azure Solutions Architect: Implement an Automation Strategy for Resource Deployment
+This course will teach you how to implement an automation strategy for resource deployment on Microsoft Azure, a key objective in the Microsoft AZ-303 exam.",Not applicable,1.22,Expert,Pluralsight
+Building and Running Your First Docker App,"Building and Running Your First Docker App
+This course will teach you the core fundamentals needed to build and run an application using Docker containers.",Not applicable,2.15,Beginner,Pluralsight
+Exploring Product Business Foundations,"Exploring Product Business Foundations
+This course will teach you the foundations of business strategy and how to organize the product team to maximize communication and collaboration within any business organization.",Not applicable,1.8,Intermediate,Pluralsight
+RxJS in Angular: Reactive Development,"RxJS in Angular: Reactive Development
+Angular uses RxJS to create Observable data streams, but that’s just one of its many features. In this course, you'll learn how to combine streams from multiple data sources, create action streams to react more easily to user actions, and much more.",Not applicable,4.57,Beginner,Pluralsight
+Angular Reactive Forms,"Angular Reactive Forms
+You can build forms in Angular by using a Reactive approach by defining the form model and validation in your component code. This course details how to build Reactive forms, validate user-entered data, and save that data using HTTP.",Not applicable,3.87,Intermediate,Pluralsight
+Angular: Getting Started,"Angular: Getting Started
+Angular is one of the fastest, most popular open source web app frameworks today, and knowing how to use it is essential for developers. You'll learn how to create components and user interfaces, data-binding, retrieving data using HTTP, and more.",Not applicable,5.87,Beginner,Pluralsight
+Exploring Data with PivotTables,"Exploring Data with PivotTables
+This course explores Excel PivotTables, explaining how they are used to summarize and analyze data. The course shows you how to create, modify, and configure PivotTables to take your raw data and turn it into useful and insightful information.",Not applicable,1.68,Expert,Pluralsight
+Delivering Product Foundations,"Delivering Product Foundations
+In this course, Exploring Delivering and
+Evolving Product Foundations, you’ll learn the essential steps
+must take to deliver a product that meets product-market fit.",Not applicable,1.83,Intermediate,Pluralsight
+Build an Object Detection Solution with Microsoft Azure Custom Vision Service,"Build an Object Detection Solution with Microsoft Azure Custom Vision Service
+The Microsoft cloud includes a collection of services that help you create advanced AI solutions. This course will teach you how to build an object detection solution with Azure Custom Vision.",Not applicable,0.6,Intermediate,Pluralsight
+Microsoft Azure Solutions Architect: Implement a Workload Management Strategy,"Microsoft Azure Solutions Architect: Implement a Workload Management Strategy
+Migrating and managing existing workloads in Azure can be overwhelming, but it doesn’t have to be. This course will teach you how to plan, migrate, and manage workloads in Microsoft Azure, a key skill measured in the AZ-303 exam.",Not applicable,1.33,Expert,Pluralsight
+Introduction to the C# 9 Type System,"Introduction to the C# 9 Type System
+C# is a strongly-typed language. In this course, you’ll learn how to work with built-in data types, classes, interfaces, and inheritance.",Not applicable,5.3,Beginner,Pluralsight
+RHEL 8: Using Essential Tools,"RHEL 8: Using Essential Tools
+This course will teach you to access and use the Linux command line and the essential tools needed to progress your journey in administering enterprise Linux distributions.",Not applicable,2.65,Beginner,Pluralsight
+"JavaScript Objects, Prototypes, and Classes","JavaScript Objects, Prototypes, and Classes
+Dig deeply into creating with prototypes using inheritance including constructor functions and classes. Gain a deep understanding of what happens with prototypes behind-the-scenes when creating objects and working with inheritance.",Not applicable,1.8,Expert,Pluralsight
+Advanced Defensive Programming Techniques,"Advanced Defensive Programming Techniques
+This course will lead you step by step through the process of developing defensive design practices, which can substitute common defensive coding, for the better of software design and implementation.",Not applicable,6.37,Intermediate,Pluralsight
+Securing Application Secrets in ASP.NET Core 3,"Securing Application Secrets in ASP.NET Core 3
+Learn how to protect your passwords, API Keys, and other application secrets in your ASP.NET applications. The secure development practices you will learn make it easier to keep production environments safe from malicious or accidental harm.",Not applicable,0.85,Intermediate,Pluralsight
+Nutanix: The Big Picture,"Nutanix: The Big Picture
+Nutanix is a leading vendor in the Hyperconverged Infrastructure (HCI) space. This course will provide you with an overview of its architecture, features, and additional capabilities beyond HCI.",Not applicable,2.18,Beginner,Pluralsight
+What Every Developer Should Know About SQL Server Performance,"What Every Developer Should Know About SQL Server Performance
+This course is designed to teach developers the fundamentals of SQL Server performance, showing you the tools you will need to troubleshoot and resolve SQL Server performance problems.",Not applicable,3.37,Beginner,Pluralsight
+Domain-Driven Design: Working with Legacy Projects,"Domain-Driven Design: Working with Legacy Projects
+Discover the best ways to deliver new functionality and scalability of legacy code bases with this in-depth course on Domain-Driven Design: Working with Legacy Projects.",Not applicable,3.85,Intermediate,Pluralsight
+InDesign CC Fundamentals,"InDesign CC Fundamentals
+Learn how to harness the power of Adobe InDesign CC to create superior eBooks and magazines. This course is the first in a series designed to help you master one of the world's most popular page layout applications.",Not applicable,4.23,Beginner,Pluralsight
+Introduction to Data Visualization with Python,"Introduction to Data Visualization with Python
+Data visualization is often the first step in any type of data analysis. This course will teach you several essential data visualization techniques, when to use them, and how to implement them with Python and Matplotlib.",Not applicable,1.47,Intermediate,Pluralsight
+DevOps with GitHub and Azure: The Big Picture,"DevOps with GitHub and Azure: The Big Picture
+GitHub has a tool suite to support continuous delivery and DevOps. Want to see what this tool suite can do for you? Then this course is for you! In less than two hours, you get a full overview of how the tools can support your team.",Not applicable,1.92,Beginner,Pluralsight
+TypeScript: The Big Picture,"TypeScript: The Big Picture
+This course is a technical introduction and overview of TypeScript — a language that “wraps around” JavaScript to help us avoid common issues and improves not just the code itself, but the entire developer experience writing JavaScript apps.",Not applicable,0.73,Beginner,Pluralsight
+How Git Works,"How Git Works
+This course is for developers and system administrators who want to really understand Git. Whether you just started using Git, or you've been using it every day for months - this course will give you the knowledge you need to become a Git master.",Not applicable,1.93,Beginner,Pluralsight
+Play by Play: Visual Studio Live Share,"Play by Play: Visual Studio Live Share
+In this course, you'll learn the capabilities of Visual Studio Live Share and how to use it to enhance collaboration between remote developers using both Visual Studio and Visual Studio Code.",Not applicable,0.6,Beginner,Pluralsight
+Improving Unit Tests with Fluent Assertions 5,"Improving Unit Tests with Fluent Assertions 5
+Waste less time debugging failing tests by improving test failure messages, with the added benefit of making your test code more readable and maintainable, by using the Fluent Assertions library.",Not applicable,0.67,Intermediate,Pluralsight
+Network Troubleshooting and Tools,"Network Troubleshooting and Tools
+Troubleshooting IT issues is one of the most valuable skills an IT professional can have. This course will introduce you to a variety of possible issues in information technology and describe and demonstrate the necessary tools to solve those issues.",Not applicable,3.82,Intermediate,Pluralsight
+Malware Analysis Fundamentals,"Malware Analysis Fundamentals
+The ability to analyze malware has become a necessary skill for anyone performing incident response. This course will teach the skills required to properly, quickly, and safely analyze malware by examining both its characteristics and behavior.",Not applicable,3.33,Beginner,Pluralsight
+"Maintaining, Monitoring and Troubleshooting Kubernetes","Maintaining, Monitoring and Troubleshooting Kubernetes
+This course will teach you to maintain, monitor and troubleshoot production Kubernetes clusters.",Not applicable,2.23,Intermediate,Pluralsight
+Ethical Hacking: Enumeration,"Ethical Hacking: Enumeration
+The third phase attackers perform on a target is enumerating accounts and services. This course will teach you skills attackers use for enumeration that needed for the Certified Ethical Hacking exam.",Not applicable,2.57,Intermediate,Pluralsight
+Working with Django Models,"Working with Django Models
+Django’s ORM is one of the most powerful and easy to use ORMs available. This course will teach you how to leverage the full power of Django Models to build better data models for your web applications.",Not applicable,2.57,Intermediate,Pluralsight
+Photoshop CC Selections,"Photoshop CC Selections
+This course covers how to effectively create selections inside of Adobe Photoshop.",Not applicable,2.42,Intermediate,Pluralsight
+Securing Microsoft Azure Subscriptions,"Securing Microsoft Azure Subscriptions
+In this course, you will learn how to protect and provide least-privilege security for your Azure AD tenant and Azure subscription resources.",Not applicable,2.45,Expert,Pluralsight
+Ethical Hacking: Understanding Ethical Hacking,"Ethical Hacking: Understanding Ethical Hacking
+A Certified Ethical Hacker is a security professional who understands how to look for weaknesses in target systems and uses the same knowledge and tools as a malicious hacker. This course will teach you the foundations of this knowledge needed for the CEH 312-50 exam.",Not applicable,2.65,Beginner,Pluralsight
+Microsoft Azure for .NET Developers - Cloud Patterns and Architecture,"Microsoft Azure for .NET Developers - Cloud Patterns and Architecture
+Building systems in the cloud gives you a range of abilities to build scalable, resilient, and highly available applications. This course presents you with design patterns and systems architecture for applications in Microsoft Azure.",Not applicable,2.52,Expert,Pluralsight
+Async Patterns in Node.js 12,"Async Patterns in Node.js 12
+Node.js is built from the ground up to support asynchronous coding patterns. This course will teach you multiple techniques for writing modern, asynchronous JavaScript that helps you deliver fast and responsive Node applications.",Not applicable,1.45,Intermediate,Pluralsight
+Exam Alert: Develop for Azure Storage,"Exam Alert: Develop for Azure Storage
+Exam alerts provide a quick summary of the information covered in the Developing Solutions for Microsoft Azure exam. This exam alert will review the objectives covered in the Developing for Azure Storage domain.",Not applicable,0.38,Intermediate,Pluralsight
+Ethical Hacking: System Hacking,"Ethical Hacking: System Hacking
+This course will teach you the techniques of hacking systems that you’ll need for the 312-50 exam",Not applicable,4.57,Intermediate,Pluralsight
+Web Performance for Progressive Web Apps,"Web Performance for Progressive Web Apps
+This course will teach you how to find and fix performance issues in web applications, and accurately measure improvements.",Not applicable,1.88,Intermediate,Pluralsight
+Exam Alert: Develop for Azure Storage,"Exam Alert: Develop for Azure Storage
+Exam alerts provide a quick summary of the information covered in the Developing Solutions for Microsoft Azure exam. This exam alert will review the objectives covered in the Developing for Azure Storage domain.",Not applicable,0.38,Intermediate,Pluralsight
+Ethical Hacking: System Hacking,"Ethical Hacking: System Hacking
+This course will teach you the techniques of hacking systems that you’ll need for the 312-50 exam",Not applicable,4.57,Intermediate,Pluralsight
+Web Performance for Progressive Web Apps,"Web Performance for Progressive Web Apps
+This course will teach you how to find and fix performance issues in web applications, and accurately measure improvements.",Not applicable,1.88,Intermediate,Pluralsight
+Illustrator CC Building on the Fundamentals,"Illustrator CC Building on the Fundamentals
+Illustrator CC Building on the Fundamentals is a course that dives deeper into Illustrator CC.",Not applicable,4.13,Beginner,Pluralsight
+Ethical Hacking: Reconnaissance/Footprinting,"Ethical Hacking: Reconnaissance/Footprinting
+Reconnaissance/Footprinting is the first phase attackers perform. This course will teach you the skills attackers use, which is needed for the CEH Exam.",Not applicable,4.3,Beginner,Pluralsight
+Automated Tests in Java with Fluent Interface Using WebDriver Selenium,"Automated Tests in Java with Fluent Interface Using WebDriver Selenium
+Automated UI tests should be easy to read and clearly show business logic, not filled with low-level code. Learn how to create a Fluent Interface for your tests and make them highly readable, easy to maintain and pleasant to work with.",Not applicable,1.63,Intermediate,Pluralsight
+Exception Handling in Java (Java SE 11 Developer Certification 1Z0-819),"Exception Handling in Java (Java SE 11 Developer Certification 1Z0-819)
+This course will teach you the tips, tricks, and pitfalls of exception handling in Java to help you prepare for the certification exam.",Not applicable,1.67,Intermediate,Pluralsight
+Introduction to Networking for Cisco CCNA,"Introduction to Networking for Cisco CCNA
+This is the first in a series of courses designed to prepare you for the Cisco Certified Network Associate Exam. This course will introduce the basic components needed to understand data networks, including networking models and network addressing.",Not applicable,1.9,Intermediate,Pluralsight
+Working with Data in PowerShell,"Working with Data in PowerShell
+PowerShell is versatile and can work with common data structures such as JSON, XML, and CSV. PowerShell also provides cmdlets for interacting with web endpoints natively. This course will teach you the fundamentals of working with data in PowerShell.",Not applicable,1.47,Beginner,Pluralsight
+Tableau Desktop Specialist - Managing Data Properties,"Tableau Desktop Specialist - Managing Data Properties
+Tableau is an industry leading data visualization tool. This course will teach you how you can change data properties in Tableau for ease of use in designing and when presenting to your end users.",Not applicable,0.48,Beginner,Pluralsight
+Information Systems Operations: Resilience,"Information Systems Operations: Resilience
+Auditors must understand the processes and methodologies of business resilience, and be able to assess the ability of the organization to manage incidents and recover from crisis. In this course, you will learn the ways to perform these audits.",Not applicable,1.93,Intermediate,Pluralsight
+DDD and EF Core 3: Preserving Encapsulation,"DDD and EF Core 3: Preserving Encapsulation
+This course shows how to build highly encapsulated domain models on one hand and leverage the full power of EF Core on the other.",Not applicable,3.65,Intermediate,Pluralsight
+Introduction to Security and Architecture on AWS,"Introduction to Security and Architecture on AWS
+This course will provide an introduction to architectural concepts, security best practices on the platform, and introducing AWS services that support these areas.",Not applicable,1.97,Beginner,Pluralsight
+Mastering Git,"Mastering Git
+If you already have some experience with Git, this is the training that will make you an expert. From a deep look at the fundamental commands, to the design of a distributed workflow, this training will give you a full overview of the Git toolset.",Not applicable,3.07,Intermediate,Pluralsight
+.NET Unit Testing with AutoFixture 4,".NET Unit Testing with AutoFixture 4
+This course will teach you how to use AutoFixture to improve your test code and make tests quicker to write, more readable, and more maintainable.",Not applicable,1.98,Beginner,Pluralsight
+Creating Layouts with CSS Grid,"Creating Layouts with CSS Grid
+Coding web layouts has never been easy until now. This course will teach you CSS Grid, a technology to define rational layouts for your websites that is finally ready to go mainstream.",Not applicable,1.7,Intermediate,Pluralsight
+Vulnerability Management with QRadar,"Vulnerability Management with QRadar
+This course is designed to help you deploy a proper vulnerability management program using the IBM QRadar Vulnerability Management (QVM), a solution that allows you to scan your company for vulnerabilities directly from the QRadar console.",Not applicable,1.53,Intermediate,Pluralsight
+Microsoft Azure DevOps Engineer: Provision Azure Resources,"Microsoft Azure DevOps Engineer: Provision Azure Resources
+When using Azure the first task is to create resources, but how? In this course, you will explore the options for resource provisioning and how to make the right choice for you and your organization.",Not applicable,1.58,Intermediate,Pluralsight
+Apollo: Performance Management Playbook,"Apollo: Performance Management Playbook
+This course will teach you how to more efficiently build GraphQL applications that use both the Apollo client and server technologies.",Not applicable,3.35,Intermediate,Pluralsight
+Architecting Big Data Solutions Using Google Dataproc,"Architecting Big Data Solutions Using Google Dataproc
+Dataproc is Google’s managed Hadoop offering on the cloud. This course teaches you how the separation of storage and compute allows you to utilize clusters more efficiently purely for processing data and not for storage.",Not applicable,2.28,Beginner,Pluralsight
+Rewriting Git 2.x History,"Rewriting Git 2.x History
+This course teaches you why rewriting Git history can be useful, how to do it, and how to deal with some of the common problems that can arise when you do.",Not applicable,1.05,Intermediate,Pluralsight
+Typography: Getting Started,"Typography: Getting Started
+This course will teach you everything you wanted to know about the anatomy, structure, and patterns of typography in design.",Not applicable,1.8,Beginner,Pluralsight
+Deploying and Managing Hybrid Exchange Server and Office 365,"Deploying and Managing Hybrid Exchange Server and Office 365
+A hybrid Exchange Server and Office 365 environment provides many benefits but can be complex and difficult to manage. In this course, you will learn the skills to plan, deploy, and administer a hybrid Exchange Server, and migrate to Office 365.",Not applicable,3.73,Intermediate,Pluralsight
+Mocking Node.js with Sinon 8,"Mocking Node.js with Sinon 8
+Creating unit tests is a skill, just like any other part of software development. This course will teach you how to effectively isolate your unit tests with spies, stubs, mocks, and fakes.",Not applicable,1.42,Intermediate,Pluralsight
+Implementing an Event Log with Kafka,"Implementing an Event Log with Kafka
+Kafka is one of the most widely-used platforms for building resilient and complex modern applications. This course will teach you how to build complex event-driven microservices using Kafka as a backbone of your application.",Not applicable,3.58,Expert,Pluralsight
+Ruby 2: The Big Picture,"Ruby 2: The Big Picture
+This course is a quick introduction to Ruby, one of the most useful and fun programming languages around.",Not applicable,1.25,Beginner,Pluralsight
+Collecting Data on AWS,"Collecting Data on AWS
+AWS has some of the more comprehensive data collection services in the world. This course will teach you how to leverage various AWS services in accordance with your data collection needs.",Not applicable,2.3,Intermediate,Pluralsight
+Preparing a Vue 3 App for Internationalization,"Preparing a Vue 3 App for Internationalization
+Every modern Vue application needs to have a localization option. This course will teach you how to implement internationalization with the help of the vue-i18n plugin.",Not applicable,1.68,Intermediate,Pluralsight
+Conceptualizing the Processing Model for Azure Databricks Service,"Conceptualizing the Processing Model for Azure Databricks Service
+In this course, you will learn about the Spark based Azure Databricks platform. You will see how Spark Structured Streaming processing model works, and then use it to build end-to-end production ready streaming pipeline on Azure Databricks platform.",Not applicable,2.85,Intermediate,Pluralsight
+SQL Fundamentals in Salesforce Marketing Cloud,"SQL Fundamentals in Salesforce Marketing Cloud
+Structured Query Language (SQL) is used in Salesforce Marketing Cloud to manage and manipulate Data Extensions. This course will teach you the basics of writing SQL queries, structuring data extensions and automating data imports.",Not applicable,0.83,Beginner,Pluralsight
+Exploring Lean Principles,"Exploring Lean Principles
+In this course, you'll learn about the history of Lean Processes, beginning with the miracle of the Toyota Production System and how it came about. You'll learn how to apply the lessons of Lean to software development, and to eliminate waste.",Not applicable,1.13,Beginner,Pluralsight
+People Information Gathering with the Social Engineering Toolkit (SET),"People Information Gathering with the Social Engineering Toolkit (SET)
+Social Engineering is one of the most common attack vectors. Unfortunately, in this digital age, many people still fall victim to these attacks. In this course, you will learn Initial Access using the Social Engineering Toolkit.",Not applicable,0.38,Intermediate,Pluralsight
+Designing/Deploying Exchange 2016: Transport,"Designing/Deploying Exchange 2016: Transport
+This course will teach you about Exchange 2016 transport design and deployment. Along with other courses in the series, this course will help to prepare you for the Microsoft 70-345 exam.",Not applicable,3.0,Intermediate,Pluralsight
+"Practical SQL Server Security, Compliance, and Auditing","Practical SQL Server Security, Compliance, and Auditing
+This course is a practical approach to leveraging SQL Server to meet the needs of your industry compliance, audit, security, and encryption standards.",Not applicable,3.67,Intermediate,Pluralsight
+Installing and Running PowerShell,"Installing and Running PowerShell
+This course will teach you how to install PowerShell 7 on Windows and how to begin using it.",Not applicable,1.32,Beginner,Pluralsight
+String Manipulation in C#: Best Practices,"String Manipulation in C#: Best Practices
+Strings are a core concept in .NET, which all developers must master. This course will teach you everything you need to know about the best practices for working with strings using C#.",Not applicable,3.4,Intermediate,Pluralsight
