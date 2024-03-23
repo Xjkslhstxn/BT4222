@@ -1,3 +1,4 @@
 Data/User
 Data/job_descriptions.csv
 .DS_Store
+.env
