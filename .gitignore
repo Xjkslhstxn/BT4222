@@ -1,8 +1,11 @@
+# Igonore all the large files
 Data/User
 Data/job_descriptions.csv
 Data/processed_jobs.csv
 Data/processed_users.csv
 Data/reduced_jobs.csv
 Data/reduced_user.csv
+Embedding/embedded_users.csv
+Embedding/embedded_jobs.csv
+
 .DS_Store
-.env
