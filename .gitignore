@@ -7,5 +7,5 @@ Data/reduced_jobs.csv
 Data/reduced_user.csv
 Embedding/embedded_users.csv
 Embedding/embedded_jobs.csv
-
+Embedding/User Samples
 .DS_Store
