@@ -107,6 +107,6 @@ To run any part of this pipeline, follow these steps:
     Navigate to the respective notebook file (`.ipynb`) you wish to run and follow the instructions within.
 
 5. **Data Files**:
-    Ensure you have the necessary data files placed in the specified directories as mentioned in the notebooks. The paths to input and output CSV files are crucial for the scripts to run correctly.
+    Ensure you have the necessary data files downloaded from the drive and placed in your local drive. Then, import them into your colab by cd into your own local drive to access the csv needed.
 
 
