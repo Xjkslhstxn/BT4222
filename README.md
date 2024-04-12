@@ -41,8 +41,12 @@ This project is divided into two main segments: **Job Recommendation** and **Cou
    - **Aim**: Select 1k jobs for model evaluation.
 
 8. **Building the Model**
-   - **Notebook**: `ncf.ipynb`
-   - **Aim**: Train the NCF model and predict job suitability.
+   - **Notebook**: `1.8 ncf.ipynb`
+   - **Aim**: Train the NCF and MLP models and predict job suitability.
+  
+9. **Evaluation**
+   - **Notebook**: `1.9 sbert_evaluation.ipynb` `1.9 user41504_avg.ipynb.ipynb`
+   - **Aim**: To generate the user-job recommendation lists for future recommendation step.
 
 ### Course Recommendation Pipeline
 
@@ -60,8 +64,8 @@ This project is divided into two main segments: **Job Recommendation** and **Cou
 
 ## Data Sources
 
-- User Data: Located in `survey_results_public.csv`
-- Job Data: Available in `job.csv`
+- All job recommendation related files are stored in `https://drive.google.com/drive/folders/1rb5osna2lrk_LW88WIdZjHftyKyyQxR9?usp=sharing`
+- All course recommendation related files are stored in `https://drive.google.com/drive/folders/1Rtjlaw01RXF6pdY1_st6rS68dmlwX6rR?usp=sharing`
 - Course Data: Sourced from various platforms and consolidated for analysis.
 
 ## Getting Started
