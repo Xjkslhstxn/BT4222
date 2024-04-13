@@ -11,3 +11,5 @@ Embedding/embedded_jobs_IdEncoded.csv
 Embedding/embedded_users_IdEncoded.csv
 Embedding/User Samples
 .DS_Store
+word2vec.model.syn1neg.npy
+word2vec.model.wv.vectors.npy
